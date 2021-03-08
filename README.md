@@ -4,4 +4,8 @@
 2. Run: `npm i`
 3. Run: `npm start` should start up mock server and the app
 
+### Run tests:
+
+- `npm run test`
+
 Visit `http://localhost:3000/` in your browser to see the listed films and the server is on `http://localhost:3001`
